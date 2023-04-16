@@ -1,0 +1,3 @@
+# AI Project ZenTD
+
+ZenTD is a powerful and intuitive desktop AI program that spectates your computer usage and helps you with any task. With its advanced algorithms and machine learning capabilities, ZenTD can understand your voice commands and respond like a real human, making it easy to get things done quickly and efficiently. Its animated model and voice add a touch of personality and fun to your computing experience, while its intelligent features help you stay organized and productive throughout your day. Whether you need help with scheduling, searching, or just want to chat, ZenTD is your go-to AI assistant for all your computing needs.
